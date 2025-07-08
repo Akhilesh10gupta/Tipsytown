@@ -10,7 +10,7 @@
 
 ## 📸 Screenshots
 
-![Home Page](https://user-images.githubusercontent.com/your-screenshot-link.png)
+![Home Page][(https://user-images.githubusercontent.com/your-screenshot-link.png)](https://res.cloudinary.com/dizmm8x5t/image/upload/v1752004825/Screenshot_2025-07-09_013000_i3ur55.png)
 <!-- Add actual screenshots here if available -->
 
 ---
